@@ -1,1 +1,3 @@
-# This is the origin README.md
+# Contributing for GDSC Platform
+
+## Pull request process
