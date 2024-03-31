@@ -1,1 +1,1 @@
-# This is the origin README.md
+# Contributing for GDSC Platform
